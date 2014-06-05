@@ -10,5 +10,6 @@ public class TestTest {
     public static void main(String[] args) {
         System.out.println("Hallo Du da!");
         System.out.println("EY!!!");
+        System.out.println("Manno!!!");
     }
 }
