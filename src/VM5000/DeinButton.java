@@ -1,5 +1,9 @@
-package VM5000;import javax.swing.*;import javax.swing.Icon;import javax.swing.JButton;
-import java.awt.*;import java.awt.Dimension;import java.lang.String;
+package VM5000;
+
+import javax.swing.Icon;
+import javax.swing.JButton;
+import java.awt.Dimension;
+import java.lang.String;
 
 public class DeinButton extends JButton {
 

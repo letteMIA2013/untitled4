@@ -1,5 +1,14 @@
-package VM5000;import javax.swing.JFrame;import javax.swing.JPanel;import javax.swing.WindowConstants;
-import java.awt.BorderLayout;import java.awt.Button;import java.awt.Color;import java.awt.GridBagConstraints;import java.awt.GridBagLayout;import java.awt.Insets;import java.awt.Label;import java.lang.String;
+package VM5000;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.WindowConstants;
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.GridBagConstraints;
+import java.awt.GridBagLayout;
+import java.awt.Insets;
+import java.lang.String;
 
 public class MultiplayerFenster {
 

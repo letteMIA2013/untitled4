@@ -1,4 +1,8 @@
-package VM5000;import javax.swing.*;import javax.swing.ImageIcon;import java.lang.String;import java.lang.System;
+package VM5000;
+
+import javax.swing.ImageIcon;
+import java.lang.String;
+import java.lang.System;
 
 public class BildBauer {
 
